@@ -2330,7 +2330,7 @@
 			display: block;
 			margin: 0 0 2em 0;
 			width: 100%;
-			max-height: 200px;
+
 
 
 		}
@@ -2340,6 +2340,7 @@
 			}
 
 /* List */
+
 
 	ol {
 		list-style: decimal;
