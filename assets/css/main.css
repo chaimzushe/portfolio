@@ -3464,25 +3464,16 @@
 
 }
 
-.memory-img:hover {
-	background-image: url('../../images/memory.png');
+
+.rails-img {
+	background-image: url('../../images/rails.png');
 }
 
-.chess-img {
-	background-image: url('../../images/chess-still.png');
-}
-
-.chess-img:hover {
-	background-image: url('../../images/chess-still.png');
-}
 
 .booksy-img {
 	background-image: url('../../images/booksy.png');
 }
 
-.booksy-img:hover {
-	background-image: url('../../images/booksy.png');
-}
 
 .project-description {
 	min-height: 270px;
