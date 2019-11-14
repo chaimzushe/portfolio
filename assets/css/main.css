@@ -142,7 +142,10 @@
 	}
 
 	@media screen and (max-width: 980px) {
-
+		.image.fit.profile-pic{
+			margin: auto;
+			margin-bottom: 12px;
+		}
 		.container.\31 25\25 {
 			width: 100%;
 			max-width: 125%;
@@ -3445,6 +3448,7 @@
 .image.fit.profile-pic {
 	width: 70%;
 }
+
 
 .beis-hey {
 	position: absolute;
